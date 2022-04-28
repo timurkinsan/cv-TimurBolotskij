@@ -1,0 +1,12 @@
+body {
+background-color: #e6d19f;
+display:flex;
+justify-content:center;
+}
+main{
+margin-top:15%;
+margin-bottom:15%;
+background-color: white;
+width: 210mm;
+height: 297mm;
+}
