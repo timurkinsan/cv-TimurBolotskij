@@ -3,10 +3,29 @@ background-color: #e6d19f;
 display:flex;
 justify-content:center;
 }
+
 main{
 margin-top:15%;
 margin-bottom:15%;
+padding-left:5%;
+padding-right:5%;
 background-color: white;
 width: 210mm;
 height: 297mm;
+}
+header{
+    border-bottom: 1px solid gray;
+}
+#bottom-content {
+    display:flex;
+  
+}
+.bottom{
+
+}
+.left-section{
+    border-bottom: 1px solid gray;
+}
+.right-section{
+
 }
