@@ -3,6 +3,9 @@ background-color: #e6d19f;
 display:flex;
 justify-content:center;
 }
+p{
+line-height: 1.2;
+}
 
 main{
 margin-top:15%;
@@ -74,9 +77,26 @@ font-size:200%;
     color: #555;
 }
 .bold-text{
-font-weight: 900;
+font-weight: 700;
 }
-.main-info h2{margin-top: 2%;
+.main-info h2{
+    margin-top: 2%;
     font-size: 120%;
     font-style: italic;
     /*background-color: goldenrod;*/ 
+}
+
+.description-section{
+    margin-top: 5%;
+}
+.title{
+    margin-bottom: 3%;
+    /*background-color: cornflowerblue;*/
+    font-size: 120%;
+    font-family: sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    line-height: 1.2;
+    color: #555;  
+}
