@@ -5,6 +5,15 @@ justify-content:center;
 }
 p{
 line-height: 1.2;
+flex-direction: column;
+/*background-color: cornflowerblue;*/
+font-size: 80%;
+line-height: 1.2;
+letter-spacing:10;
+font-family: sans-serif;
+
+color: black;
+
 }
 
 main{
@@ -107,8 +116,18 @@ font-weight: 700;
     letter-spacing: 2px;
     line-height: 1.2;
     color: #555;
-}
 
+}
+.title1{
+    display: flex;
+    /*background-color: cornflowerblue;*/
+    font-size: 90%;
+    font-family: Tahoma;
+    font-weight: 550;
+   
+    line-height: 1.8;
+    color: #555;
+}
 .left-right-container {
     display: flex;
     justify-content: space-between;
@@ -117,7 +136,27 @@ font-weight: 700;
 .text-right {
     margin-right: 1%;
 }
+.text-left{
+    line-height: 1.2;
+flex-direction: column;
+/*background-color: cornflowerblue;*/
+font-size: 80%;
+line-height: 1.2;
+letter-spacing:10;
+font-family: sans-serif;
 
+color: black;
+}
+.text-right{
+    line-height: 1.2;
+flex-direction: column;
+/*background-color: cornflowerblue;*/
+font-size: 80%;
+line-height: 1.2;
+letter-spacing:10;
+font-family: sans-serif;
+
+color: black;
 #profile-photo {
     border-radius: 50%;
     margin-left: 20%;
