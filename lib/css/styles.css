@@ -1,8 +1,4 @@
-@media screen and (max-width : 1200px) 
-   { .container{
-    margin:content 1em 2em;
-    
-   }}
+
 body {
 background-color: #e6d19f;
 display:flex;
@@ -27,8 +23,8 @@ margin-bottom:5%;
 padding-left:5%;
 padding-right:5%;
 background-color: white;
-width: 1080px;
-height: 1527px;
+width: 210mm;
+height: 297mm;
 }
 
 header{
@@ -62,7 +58,7 @@ header{
 .top-section{
     display:flex;
     margin-left: 5%;
-    justify-content:flex-end;
+   /* justify-content:flex-end;*/
     /*background-color: darksalmon ;*/
 }
 
