@@ -170,3 +170,17 @@ font-weight: 700;
         padding-top: 5%;
         padding-right: 5%;
     }
+    #bottom-content {
+        display:flex;
+        flex-direction: column;
+    }
+    .left-section{
+        border-right: 0px solid gray;
+        padding-top: 5%;
+        padding-right: 5%;
+    }
+    
+    .right-section{
+        padding-top: 5%;
+        padding-left: 0%;
+    }
