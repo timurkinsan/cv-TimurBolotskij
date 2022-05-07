@@ -1,3 +1,8 @@
+@media screen and (max-width : 800px) {
+    .container{
+    margin: content 1em 2em;
+}
+}
 body {
 background-color: #e6d19f;
 display:flex;
@@ -11,7 +16,7 @@ font-size: 80%;
 line-height: 1.2;
 letter-spacing:10;
 font-family: sans-serif;
-
+letter-spacing:100;
 color: black;
 
 }
