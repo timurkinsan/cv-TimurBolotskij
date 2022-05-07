@@ -177,10 +177,21 @@ font-weight: 700;
     .left-section{
         border-right: 0px solid gray;
         padding-top: 5%;
-        padding-right: 5%;
+        padding-right: 0%;
+        padding-left: 0%;
     }
     
     .right-section{
         padding-top: 5%;
         padding-left: 0%;
+        padding-right: 0%;
     }
+    p{
+        flex-direction: column;
+        /*background-color: cornflowerblue;*/
+        font-size: 80%;
+        letter-spacing: 0.5px;
+        line-height: 12pt;
+        font-family: sans-serif;
+        color: black;
+        }
